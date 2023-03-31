@@ -33,7 +33,7 @@ md_contents=$(cat "$1")
 
 # Loop through the image links in the array
 # Set the DigitalOcean bucket name
-bucket_name="basedash-blog"
+bucket_name="REPLACE_ME"
 
 # Set the region for the DigitalOcean bucket
 region="us-east-1"
